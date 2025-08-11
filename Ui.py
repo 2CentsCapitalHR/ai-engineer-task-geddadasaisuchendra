@@ -16,7 +16,7 @@ if st.button("Run Compliance Check") and uploaded_files:
 
     st.success("✅ Compliance check completed!")
 
-    # Ensure output matches Task.pdf structure exactly
+
     formatted_report = []
     for category in report:
         formatted_report.append({
@@ -27,7 +27,7 @@ if st.button("Run Compliance Check") and uploaded_files:
             "issues_found": category["issues_found"] if category["issues_found"] else []
         })
 
-    # Show JSON nicely
+    
     st.subheader("📄 JSON Report")
     st.json(formatted_report)
 

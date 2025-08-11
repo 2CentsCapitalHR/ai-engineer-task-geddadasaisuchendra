@@ -1,7 +1,7 @@
 from collections import defaultdict
 from .document_reader import extract_text_from_docx
 from .category_detector import detect_category
-from .checklist import get_required_docs_for_category, compare_with_checklist
+from .checklist import  compare_with_checklist
 from .compliance_checker import run_compliance_check
 
 def process_documents(uploaded_files):
