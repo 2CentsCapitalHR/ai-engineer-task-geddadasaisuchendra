@@ -7,11 +7,10 @@
 This project is a **two-layer compliance verification system** that automatically detects document categories, checks against ADGM checklists, and runs deeper compliance checks using RAG + LLM.
 
 ---
-<img width="1868" height="860" alt="Screenshot 2025-08-11 152953" src="https://github.com/user-attachments/assets/5708edb7-e533-4e5f-ab2b-0a742ee43b3f" />
+<img width="1917" height="958" alt="Screenshot 2025-08-11 161910" src="https://github.com/user-attachments/assets/b235bb5a-c083-4cec-8d89-1879a13a64a4" />
+<img width="1915" height="961" alt="Screenshot 2025-08-11 161928" src="https://github.com/user-attachments/assets/8b39ffaf-6c64-4723-9342-0047c7080ed7" />
+<img width="1917" height="957" alt="Screenshot 2025-08-11 161946" src="https://github.com/user-attachments/assets/e9d3ab65-57d7-43be-a365-e1ab677a8e83" />
 
-<img width="1429" height="855" alt="Screenshot 2025-08-11 153019" src="https://github.com/user-attachments/assets/bf149bf1-b781-4b87-8b16-b93937ba9106" />
-
-<img width="1595" height="873" alt="Screenshot 2025-08-11 153151" src="https://github.com/user-attachments/assets/92058d5e-c016-437d-ac74-cd885ec6a738" />
 
 ##  Features
 - **Layer 1** – Category detection & checklist verification  
