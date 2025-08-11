@@ -8,7 +8,9 @@ This project is a **two-layer compliance verification system** that automaticall
 
 ---
 <img width="1917" height="958" alt="Screenshot 2025-08-11 161910" src="https://github.com/user-attachments/assets/b235bb5a-c083-4cec-8d89-1879a13a64a4" />
+
 <img width="1915" height="961" alt="Screenshot 2025-08-11 161928" src="https://github.com/user-attachments/assets/8b39ffaf-6c64-4723-9342-0047c7080ed7" />
+
 <img width="1917" height="957" alt="Screenshot 2025-08-11 161946" src="https://github.com/user-attachments/assets/e9d3ab65-57d7-43be-a365-e1ab677a8e83" />
 
 
